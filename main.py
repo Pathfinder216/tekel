@@ -4,6 +4,8 @@ import sys
 from PyQt5.QtGui import QGuiApplication
 from PyQt5.QtQml import QQmlApplicationEngine
 
+import resources
+
 if __name__ == "__main__":
     app = QGuiApplication(sys.argv)
 
